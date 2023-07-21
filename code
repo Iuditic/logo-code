@@ -1,0 +1,34 @@
+{
+
+  "contact": "contect luditic on discord",
+
+  "templates": [
+
+    {
+
+      "name": "r/BeamNG template",
+
+      "sources": [
+
+        "https://cdn.discordapp.com/attachments/960147486582910997/1131886902639861760/logo_highres_circle_withname.png"
+
+      ],
+
+      "x": 260,
+
+      "y": -421,
+
+    }
+
+  ],
+
+  "whitelist": [
+  
+    "name": "osuplace",
+    "utl": "https://osu.place/e/osuplace2023.json"
+
+  ],
+
+  "blacklist": []
+
+}
