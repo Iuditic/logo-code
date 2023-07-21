@@ -65,6 +65,10 @@
             "name": "pxls.space",
             "url": "https://charity.pxls.space/template"
 	}
+	{
+            "name": "beam",
+            "url": "https://raw.githubusercontent.com/Iuditic/logo-code/main/code%2B"
+	}
     ],
     "blacklist": [
         {
